@@ -1,6 +1,6 @@
 ### Hi, I'm Ciara McGlynn. 
 
-I am a PhD Candidate in Criminal Justice and Criminology at **Washington State University** and a Senior Research Assistant at the **Center for Public Service (PSU)**.
+I am a PhD Candidate in Criminal Justice and Criminology at **Washington State University** and a Senior Research Assistant at the [**Center for Public Service**](https://www.pdx.edu/center-for-public-service/)**, Portland State University.**
 
 My work focuses on bridging the gap between theory and practice through applied research.
 
@@ -15,7 +15,7 @@ My work focuses on bridging the gap between theory and practice through applied 
 * Mei, X., ... **McGlynn, C.**, et al. (2024). "The Deleterious Health Consequences of COVID in United States Prisons." *American Journal of Criminal Justice*. [Link](https://doi.org/10.1007/s12103-024-09758-8)
 
 **📫 Connect**
-* [LinkedIn](www.linkedin.com/in/ciara-m-mcglynn)
+* [LinkedIn](https://www.linkedin.com/in/ciara-m-mcglynn)
 * [Research Gate](https://www.researchgate.net/profile/Ciara-Mcglynn-5)
 * [Bsky](https://bsky.app/profile/ciaramcglynn.bsky.social)
 * [Twitter](https://x.com/Ciara_M_McGlynn)
